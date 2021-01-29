@@ -1,0 +1,7 @@
+# Environment Handle
+``` 
+#create env 
+conda create --name anuwat python==3.8
+#delete env 
+conda env remove --name anuwat
+```
